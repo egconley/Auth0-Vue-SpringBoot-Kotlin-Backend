@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a5c23df-a173-4f3b-b1c7-3d5f669a3bcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cjODklJQzaxiqEUo5HIfgQ60fm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="com.egconley.MovieReviewBoard.MovieReviewBoardApplicationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MovieReviewBoard.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.egconley.MovieReviewBoard.MovieReviewBoardApplicationKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <envs>
+        <env name="ID_VAR" value="http://localhost:8888" />
+        <env name="KEY_SET" value="https://sample-apps.auth0.com/.well-known/jwks.json" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.egconley.MovieReviewBoard.MovieReviewBoardApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a5c23df-a173-4f3b-b1c7-3d5f669a3bcc" name="Default Changelist" comment="" />
+      <created>1591038418619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591038418619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593115489833">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="80" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1593113028663" />
+    <state x="80" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1593115489833" />
+    <state x="380" y="278" key="EnvironmentVariablesDialog" timestamp="1593115487277">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="380" y="277" key="EnvironmentVariablesDialog/0.23.1280.724@0.23.1280.724" timestamp="1593112738270" />
+    <state x="380" y="278" key="EnvironmentVariablesDialog/0.23.1280.726@0.23.1280.726" timestamp="1593115487277" />
+    <state width="1181" height="179" key="GridCell.Tab.0.bottom" timestamp="1591289445118">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1181" height="179" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1591289445118" />
+    <state width="1181" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1591048087361" />
+    <state width="1181" height="179" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1591050898957" />
+    <state width="1181" height="179" key="GridCell.Tab.0.center" timestamp="1591289445117">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1181" height="179" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1591289445117" />
+    <state width="1181" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1591048087360" />
+    <state width="1181" height="179" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1591050898955" />
+    <state width="1181" height="179" key="GridCell.Tab.0.left" timestamp="1591289445116">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1181" height="179" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1591289445116" />
+    <state width="1181" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1591048087359" />
+    <state width="1181" height="179" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1591050898953" />
+    <state width="1181" height="179" key="GridCell.Tab.0.right" timestamp="1591289445117">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1181" height="179" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1591289445117" />
+    <state width="1181" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1591048087361" />
+    <state width="1181" height="179" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1591050898956" />
+    <state x="347" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1593112537101">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="347" y="215" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1593112537101" />
+    <state x="347" y="216" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1591635880646" />
+  </component>
+</project>
