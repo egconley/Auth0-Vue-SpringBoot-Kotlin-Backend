@@ -29,7 +29,7 @@ class HelloWorldController {
         val config = CorsConfiguration()
         config.allowCredentials = true
         // *** URL below needs to match the Vue client URL and port ***
-        config.allowedOrigins = Collections.singletonList("https://https://vue-spring-kotlin-graphql-fron.herokuapp.com")
+        config.allowedOrigins = Collections.singletonList("https://vue-spring-kotlin-graphql-fron.herokuapp.com")
         config.allowedMethods = Collections.singletonList("*")
         config.allowedHeaders = Collections.singletonList("*")
         source.registerCorsConfiguration("/**", config)
