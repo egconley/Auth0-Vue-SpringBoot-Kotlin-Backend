@@ -1,8 +1,10 @@
 package com.egconley.MovieReviewBoard
 
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.web.servlet.FilterRegistrationBean
 import org.springframework.context.annotation.Bean
 import org.springframework.core.Ordered
+import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.web.cors.CorsConfiguration
@@ -12,7 +14,11 @@ import java.util.*
 import javax.servlet.Filter
 
 @RestController
+@EnableResourceServer
 class HelloWorldController {
+
+    @Value("\${frontend}")
+    private lateinit var frontendurl: String
 
     @GetMapping("/helloworld")
     fun greet(): String {
@@ -29,7 +35,7 @@ class HelloWorldController {
         val config = CorsConfiguration()
         config.allowCredentials = true
         // *** URL below needs to match the Vue client URL and port ***
-        config.allowedOrigins = Collections.singletonList("https://vue-spring-kotlin-graphql-fron.herokuapp.com")
+        config.allowedOrigins = Collections.singletonList(frontendurl)
         config.allowedMethods = Collections.singletonList("*")
         config.allowedHeaders = Collections.singletonList("*")
         source.registerCorsConfiguration("/**", config)
